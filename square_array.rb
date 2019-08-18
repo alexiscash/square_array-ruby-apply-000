@@ -4,6 +4,3 @@ def square_array(array)
   squared_array
 end
 
- arr = square_array([9,10,16,25])
- 
- puts arr
