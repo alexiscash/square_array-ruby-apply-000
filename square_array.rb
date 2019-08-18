@@ -5,3 +5,5 @@ def square_array(array)
 end
 
  arr = square_array([9,10,16,25])
+ 
+ puts arr
